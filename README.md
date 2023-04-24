@@ -1,9 +1,13 @@
--[Desafio QR Code]
--[O desafio se trata de criar uma página com a imagem do QR code de acordo com as especificações cores, fonte-familiar, responsividade para telas grandes e pequenas.]
-![Qr-Code](/design/Qr-Code.jpg)
--[https://qr-code-kgketosgb-lucs25.vercel.app/]
+<h1 align="center">Desafio QR Code</h1>
+<p align="center">O desafio se trata de criar um layout da imgem QR code de acordo com certas especificações, simulando um projeto real.</p>
 
-Tecnologias utilizadas:
--HTML,
--CSS
--Flex-Box
+<p align="center">
+  <img alt="Qr-Code" src="https://github.com/Lucs25/QR-Code/blob/master/design/Qr-Code.jpg" width="40%">
+</p>
+
+[Link para acessar o projeto](https://qr-code-kgketosgb-lucs25.vercel.app/)
+
+## Tecnologias utilizadas:
+- HTML,
+- CSS,
+- Flex-Box
